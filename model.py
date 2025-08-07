@@ -28,7 +28,7 @@ target_fortification = {'T1': 0.3, 'T2': 0.1, 'T3': 0.1, 'T4': 0.25, 'T5': 0.3, 
 
 max_range_meters = 8000
 max_total_drones = 100
-max_drones_per_site = 20
+max_drones_per_site = 34
 fixed_launch_sites = 3
 base_success_prob = 0.8
 failure_rate_per_meter = 0.00002  # 2% per km
